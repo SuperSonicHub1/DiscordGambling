@@ -2,7 +2,6 @@ import discord
 import os
 import random
 import json
-from fractions import Fraction
 import logging
 logging.basicConfig(level=logging.INFO)
 # from keep_alive import keep_alive
