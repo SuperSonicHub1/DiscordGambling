@@ -4,7 +4,7 @@ import random
 import json
 import logging
 logging.basicConfig(level=logging.INFO)
-# from keep_alive import keep_alive
+from keep_alive import keep_alive
 
 # Allow for the use of multiple commands; the last two have spaces to fight against mobile autocorrect.
 gambl = ["!gambl", "!gamble"]
